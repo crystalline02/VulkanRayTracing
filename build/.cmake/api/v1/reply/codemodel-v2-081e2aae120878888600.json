@@ -1,0 +1,211 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Walnut",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-Walnut-Debug-b99805bf055f6859fd40.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Walnut"
+				},
+				{
+					"build" : "Walnut/vendor/imgui",
+					"jsonFile" : "directory-Walnut.vendor.imgui-Debug-c02cafd6bc13d554151f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "Walnut/vendor/imgui",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Walnut/vendor/GLFW",
+					"jsonFile" : "directory-Walnut.vendor.GLFW-Debug-b996885f9a2085b26ae0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "Walnut/vendor/GLFW",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Walnut/Walnut",
+					"jsonFile" : "directory-Walnut.Walnut-Debug-287431f9410fb76f1823.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "Walnut/Walnut",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "PathTracer",
+					"jsonFile" : "directory-PathTracer-Debug-40a7f5a8e5dbd359989f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "PathTracer",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "MyRayTracer"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "ImGui",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Walnut",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "PathTracer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "ImGui::@d64d26e01c2879338efc",
+					"jsonFile" : "target-ImGui-Debug-bf3d95b1ccd18e0d9f1d.json",
+					"name" : "ImGui",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PathTracer::@e24932fdad16456b4e87",
+					"jsonFile" : "target-PathTracer-Debug-49cd35acdf150b26cd92.json",
+					"name" : "PathTracer",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Walnut::@df7f0e3e22930ffcbb0a",
+					"jsonFile" : "target-Walnut-Debug-34a9004bd1e8023f37ba.json",
+					"name" : "Walnut",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glfw::@ff7b237c36173f587d05",
+					"jsonFile" : "target-glfw-Debug-cf32debe23aa36bbad45.json",
+					"name" : "glfw",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build",
+		"source" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
