@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut
+# Install script for directory: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

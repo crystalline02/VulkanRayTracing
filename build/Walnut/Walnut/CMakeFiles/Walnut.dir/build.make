@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 # Include any dependencies generated for this target.
 include Walnut/Walnut/CMakeFiles/Walnut.dir/depend.make
@@ -70,78 +70,78 @@ include Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/includes_CXX.rsp
-Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Application.cpp
+Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Application.cpp
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Application.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Application.cpp
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Application.cpp > CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Application.cpp > CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.i
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Application.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Application.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Application.cpp.s
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/includes_CXX.rsp
-Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp
+Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp > CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp > CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.i
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp -o CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp -o CMakeFiles\Walnut.dir\src\Walnut\ImGui\ImGuiBuild.cpp.s
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/includes_CXX.rsp
-Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Image.cpp
+Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Image.cpp
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Image.cpp
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Image.cpp > CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Image.cpp > CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.i
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Image.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Image.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Image.cpp.s
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/includes_CXX.rsp
-Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Input/Input.cpp
+Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Input/Input.cpp
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Input\Input.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Input\Input.cpp
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Input\Input.cpp > CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Input\Input.cpp > CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.i
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Input\Input.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Input\Input.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Input\Input.cpp.s
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/flags.make
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/includes_CXX.rsp
-Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Random.cpp
+Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Random.cpp
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj: Walnut/Walnut/CMakeFiles/Walnut.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Random.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj -MF CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.obj.d -o CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Random.cpp
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Random.cpp > CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Random.cpp > CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.i
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Random.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Random.cpp -o CMakeFiles\Walnut.dir\src\Walnut\Random.cpp.s
 
 # Object files for target Walnut
 Walnut_OBJECTS = \
@@ -154,26 +154,26 @@ Walnut_OBJECTS = \
 # External object files for target Walnut
 Walnut_EXTERNAL_OBJECTS =
 
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/build.make
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library C:\Users\ZhenKou\OneDrive\project\MyRayTracer\bin\Debug-Windows-AMD64\Walnut\libWalnut.a"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && $(CMAKE_COMMAND) -P CMakeFiles\Walnut.dir\cmake_clean_target.cmake
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Walnut.dir\link.txt --verbose=$(VERBOSE)
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/build.make
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a: Walnut/Walnut/CMakeFiles/Walnut.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\bin\Debug-Windows-AMD64\Walnut\libWalnut.a"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && $(CMAKE_COMMAND) -P CMakeFiles\Walnut.dir\cmake_clean_target.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Walnut.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-Walnut/Walnut/CMakeFiles/Walnut.dir/build: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a
+Walnut/Walnut/CMakeFiles/Walnut.dir/build: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a
 .PHONY : Walnut/Walnut/CMakeFiles/Walnut.dir/build
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut && $(CMAKE_COMMAND) -P CMakeFiles\Walnut.dir\cmake_clean.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut && $(CMAKE_COMMAND) -P CMakeFiles\Walnut.dir\cmake_clean.cmake
 .PHONY : Walnut/Walnut/CMakeFiles/Walnut.dir/clean
 
 Walnut/Walnut/CMakeFiles/Walnut.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\MyRayTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut\CMakeFiles\Walnut.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut\CMakeFiles\Walnut.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : Walnut/Walnut/CMakeFiles/Walnut.dir/depend
 

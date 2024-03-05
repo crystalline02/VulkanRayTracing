@@ -1,7 +1,7 @@
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_demo.cpp \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui.h \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imconfig.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_demo.cpp \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imconfig.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/crtdefs.h \

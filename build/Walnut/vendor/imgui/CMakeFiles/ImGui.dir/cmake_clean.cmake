@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a"
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.pdb"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.pdb"
   "CMakeFiles/ImGui.dir/imgui.cpp.obj"
   "CMakeFiles/ImGui.dir/imgui.cpp.obj.d"
   "CMakeFiles/ImGui.dir/imgui_demo.cpp.obj"

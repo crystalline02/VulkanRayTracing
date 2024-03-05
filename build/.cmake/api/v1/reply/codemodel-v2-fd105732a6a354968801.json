@@ -169,28 +169,28 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "ImGui::@d64d26e01c2879338efc",
-					"jsonFile" : "target-ImGui-Debug-bf3d95b1ccd18e0d9f1d.json",
+					"jsonFile" : "target-ImGui-Debug-44b0d34a693c73657941.json",
 					"name" : "ImGui",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 5,
 					"id" : "PathTracer::@e24932fdad16456b4e87",
-					"jsonFile" : "target-PathTracer-Debug-49cd35acdf150b26cd92.json",
+					"jsonFile" : "target-PathTracer-Debug-046d3d4917bc3ea98149.json",
 					"name" : "PathTracer",
 					"projectIndex" : 4
 				},
 				{
 					"directoryIndex" : 4,
 					"id" : "Walnut::@df7f0e3e22930ffcbb0a",
-					"jsonFile" : "target-Walnut-Debug-34a9004bd1e8023f37ba.json",
+					"jsonFile" : "target-Walnut-Debug-917861a47d8cdba25497.json",
 					"name" : "Walnut",
 					"projectIndex" : 3
 				},
 				{
 					"directoryIndex" : 3,
 					"id" : "glfw::@ff7b237c36173f587d05",
-					"jsonFile" : "target-glfw-Debug-cf32debe23aa36bbad45.json",
+					"jsonFile" : "target-glfw-Debug-708d2e5df5c360323ae4.json",
 					"name" : "glfw",
 					"projectIndex" : 2
 				}
@@ -200,8 +200,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build",
-		"source" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer"
+		"build" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build",
+		"source" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut"
 	},
 	"version" : 
 	{

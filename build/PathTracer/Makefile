@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,14 +86,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer\\CMakeFiles\progress.marks
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles 0
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer\\CMakeFiles\progress.marks
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/clean
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/clean
 .PHONY : clean
 
 # The main clean target
@@ -102,22 +102,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/preinstall
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/preinstall
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 PathTracer/CMakeFiles/PathTracer.dir/rule:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/CMakeFiles/PathTracer.dir/rule
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 PathTracer/CMakeFiles/PathTracer.dir/rule
 .PHONY : PathTracer/CMakeFiles/PathTracer.dir/rule
 
 # Convenience name for target.
@@ -126,7 +126,7 @@ PathTracer: PathTracer/CMakeFiles/PathTracer.dir/rule
 
 # fast build rule for target.
 PathTracer/fast:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/build
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/build
 .PHONY : PathTracer/fast
 
 src/PathTracerApp.obj: src/PathTracerApp.cpp.obj
@@ -134,7 +134,7 @@ src/PathTracerApp.obj: src/PathTracerApp.cpp.obj
 
 # target to build an object file
 src/PathTracerApp.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj
 .PHONY : src/PathTracerApp.cpp.obj
 
 src/PathTracerApp.i: src/PathTracerApp.cpp.i
@@ -142,7 +142,7 @@ src/PathTracerApp.i: src/PathTracerApp.cpp.i
 
 # target to preprocess a source file
 src/PathTracerApp.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.i
 .PHONY : src/PathTracerApp.cpp.i
 
 src/PathTracerApp.s: src/PathTracerApp.cpp.s
@@ -150,7 +150,7 @@ src/PathTracerApp.s: src/PathTracerApp.cpp.s
 
 # target to generate assembly for a file
 src/PathTracerApp.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f PathTracer\CMakeFiles\PathTracer.dir\build.make PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.s
 .PHONY : src/PathTracerApp.cpp.s
 
 # Help Target
@@ -176,6 +176,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

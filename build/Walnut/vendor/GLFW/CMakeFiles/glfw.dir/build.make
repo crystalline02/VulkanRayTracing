@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 # Include any dependencies generated for this target.
 include Walnut/vendor/GLFW/CMakeFiles/glfw.dir/depend.make
@@ -69,298 +69,298 @@ include Walnut/vendor/GLFW/CMakeFiles/glfw.dir/progress.make
 include Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/context.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/context.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj -MF CMakeFiles\glfw.dir\src\context.c.obj.d -o CMakeFiles\glfw.dir\src\context.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\context.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj -MF CMakeFiles\glfw.dir\src\context.c.obj.d -o CMakeFiles\glfw.dir\src\context.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\context.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/context.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\context.c > CMakeFiles\glfw.dir\src\context.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\context.c > CMakeFiles\glfw.dir\src\context.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/context.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\context.c -o CMakeFiles\glfw.dir\src\context.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\context.c -o CMakeFiles\glfw.dir\src\context.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/init.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/init.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj -MF CMakeFiles\glfw.dir\src\init.c.obj.d -o CMakeFiles\glfw.dir\src\init.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\init.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj -MF CMakeFiles\glfw.dir\src\init.c.obj.d -o CMakeFiles\glfw.dir\src\init.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\init.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/init.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\init.c > CMakeFiles\glfw.dir\src\init.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\init.c > CMakeFiles\glfw.dir\src\init.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/init.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\init.c -o CMakeFiles\glfw.dir\src\init.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\init.c -o CMakeFiles\glfw.dir\src\init.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/input.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/input.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj -MF CMakeFiles\glfw.dir\src\input.c.obj.d -o CMakeFiles\glfw.dir\src\input.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\input.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj -MF CMakeFiles\glfw.dir\src\input.c.obj.d -o CMakeFiles\glfw.dir\src\input.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\input.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/input.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\input.c > CMakeFiles\glfw.dir\src\input.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\input.c > CMakeFiles\glfw.dir\src\input.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/input.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\input.c -o CMakeFiles\glfw.dir\src\input.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\input.c -o CMakeFiles\glfw.dir\src\input.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/monitor.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/monitor.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj -MF CMakeFiles\glfw.dir\src\monitor.c.obj.d -o CMakeFiles\glfw.dir\src\monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\monitor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj -MF CMakeFiles\glfw.dir\src\monitor.c.obj.d -o CMakeFiles\glfw.dir\src\monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\monitor.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/monitor.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\monitor.c > CMakeFiles\glfw.dir\src\monitor.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\monitor.c > CMakeFiles\glfw.dir\src\monitor.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/monitor.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\monitor.c -o CMakeFiles\glfw.dir\src\monitor.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\monitor.c -o CMakeFiles\glfw.dir\src\monitor.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_init.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_init.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj -MF CMakeFiles\glfw.dir\src\null_init.c.obj.d -o CMakeFiles\glfw.dir\src\null_init.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_init.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj -MF CMakeFiles\glfw.dir\src\null_init.c.obj.d -o CMakeFiles\glfw.dir\src\null_init.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_init.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/null_init.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_init.c > CMakeFiles\glfw.dir\src\null_init.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_init.c > CMakeFiles\glfw.dir\src\null_init.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/null_init.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_init.c -o CMakeFiles\glfw.dir\src\null_init.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_init.c -o CMakeFiles\glfw.dir\src\null_init.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_joystick.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_joystick.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj -MF CMakeFiles\glfw.dir\src\null_joystick.c.obj.d -o CMakeFiles\glfw.dir\src\null_joystick.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_joystick.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj -MF CMakeFiles\glfw.dir\src\null_joystick.c.obj.d -o CMakeFiles\glfw.dir\src\null_joystick.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_joystick.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/null_joystick.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_joystick.c > CMakeFiles\glfw.dir\src\null_joystick.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_joystick.c > CMakeFiles\glfw.dir\src\null_joystick.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/null_joystick.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_joystick.c -o CMakeFiles\glfw.dir\src\null_joystick.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_joystick.c -o CMakeFiles\glfw.dir\src\null_joystick.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_monitor.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_monitor.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj -MF CMakeFiles\glfw.dir\src\null_monitor.c.obj.d -o CMakeFiles\glfw.dir\src\null_monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_monitor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj -MF CMakeFiles\glfw.dir\src\null_monitor.c.obj.d -o CMakeFiles\glfw.dir\src\null_monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_monitor.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/null_monitor.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_monitor.c > CMakeFiles\glfw.dir\src\null_monitor.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_monitor.c > CMakeFiles\glfw.dir\src\null_monitor.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/null_monitor.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_monitor.c -o CMakeFiles\glfw.dir\src\null_monitor.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_monitor.c -o CMakeFiles\glfw.dir\src\null_monitor.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_window.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_window.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj -MF CMakeFiles\glfw.dir\src\null_window.c.obj.d -o CMakeFiles\glfw.dir\src\null_window.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_window.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj -MF CMakeFiles\glfw.dir\src\null_window.c.obj.d -o CMakeFiles\glfw.dir\src\null_window.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_window.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/null_window.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_window.c > CMakeFiles\glfw.dir\src\null_window.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_window.c > CMakeFiles\glfw.dir\src\null_window.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/null_window.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\null_window.c -o CMakeFiles\glfw.dir\src\null_window.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\null_window.c -o CMakeFiles\glfw.dir\src\null_window.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/platform.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/platform.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj -MF CMakeFiles\glfw.dir\src\platform.c.obj.d -o CMakeFiles\glfw.dir\src\platform.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\platform.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj -MF CMakeFiles\glfw.dir\src\platform.c.obj.d -o CMakeFiles\glfw.dir\src\platform.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\platform.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/platform.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\platform.c > CMakeFiles\glfw.dir\src\platform.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\platform.c > CMakeFiles\glfw.dir\src\platform.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/platform.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\platform.c -o CMakeFiles\glfw.dir\src\platform.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\platform.c -o CMakeFiles\glfw.dir\src\platform.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/vulkan.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/vulkan.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj -MF CMakeFiles\glfw.dir\src\vulkan.c.obj.d -o CMakeFiles\glfw.dir\src\vulkan.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\vulkan.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj -MF CMakeFiles\glfw.dir\src\vulkan.c.obj.d -o CMakeFiles\glfw.dir\src\vulkan.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\vulkan.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/vulkan.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\vulkan.c > CMakeFiles\glfw.dir\src\vulkan.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\vulkan.c > CMakeFiles\glfw.dir\src\vulkan.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/vulkan.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\vulkan.c -o CMakeFiles\glfw.dir\src\vulkan.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\vulkan.c -o CMakeFiles\glfw.dir\src\vulkan.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/window.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/window.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj -MF CMakeFiles\glfw.dir\src\window.c.obj.d -o CMakeFiles\glfw.dir\src\window.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\window.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj -MF CMakeFiles\glfw.dir\src\window.c.obj.d -o CMakeFiles\glfw.dir\src\window.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\window.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/window.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\window.c > CMakeFiles\glfw.dir\src\window.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\window.c > CMakeFiles\glfw.dir\src\window.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/window.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\window.c -o CMakeFiles\glfw.dir\src\window.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\window.c -o CMakeFiles\glfw.dir\src\window.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_init.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_init.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj -MF CMakeFiles\glfw.dir\src\win32_init.c.obj.d -o CMakeFiles\glfw.dir\src\win32_init.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_init.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj -MF CMakeFiles\glfw.dir\src\win32_init.c.obj.d -o CMakeFiles\glfw.dir\src\win32_init.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_init.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_init.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_init.c > CMakeFiles\glfw.dir\src\win32_init.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_init.c > CMakeFiles\glfw.dir\src\win32_init.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_init.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_init.c -o CMakeFiles\glfw.dir\src\win32_init.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_init.c -o CMakeFiles\glfw.dir\src\win32_init.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_joystick.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_joystick.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj -MF CMakeFiles\glfw.dir\src\win32_joystick.c.obj.d -o CMakeFiles\glfw.dir\src\win32_joystick.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_joystick.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj -MF CMakeFiles\glfw.dir\src\win32_joystick.c.obj.d -o CMakeFiles\glfw.dir\src\win32_joystick.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_joystick.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_joystick.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_joystick.c > CMakeFiles\glfw.dir\src\win32_joystick.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_joystick.c > CMakeFiles\glfw.dir\src\win32_joystick.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_joystick.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_joystick.c -o CMakeFiles\glfw.dir\src\win32_joystick.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_joystick.c -o CMakeFiles\glfw.dir\src\win32_joystick.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_module.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_module.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj -MF CMakeFiles\glfw.dir\src\win32_module.c.obj.d -o CMakeFiles\glfw.dir\src\win32_module.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_module.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj -MF CMakeFiles\glfw.dir\src\win32_module.c.obj.d -o CMakeFiles\glfw.dir\src\win32_module.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_module.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_module.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_module.c > CMakeFiles\glfw.dir\src\win32_module.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_module.c > CMakeFiles\glfw.dir\src\win32_module.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_module.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_module.c -o CMakeFiles\glfw.dir\src\win32_module.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_module.c -o CMakeFiles\glfw.dir\src\win32_module.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_monitor.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_monitor.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj -MF CMakeFiles\glfw.dir\src\win32_monitor.c.obj.d -o CMakeFiles\glfw.dir\src\win32_monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_monitor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj -MF CMakeFiles\glfw.dir\src\win32_monitor.c.obj.d -o CMakeFiles\glfw.dir\src\win32_monitor.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_monitor.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_monitor.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_monitor.c > CMakeFiles\glfw.dir\src\win32_monitor.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_monitor.c > CMakeFiles\glfw.dir\src\win32_monitor.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_monitor.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_monitor.c -o CMakeFiles\glfw.dir\src\win32_monitor.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_monitor.c -o CMakeFiles\glfw.dir\src\win32_monitor.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_time.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_time.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj -MF CMakeFiles\glfw.dir\src\win32_time.c.obj.d -o CMakeFiles\glfw.dir\src\win32_time.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_time.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj -MF CMakeFiles\glfw.dir\src\win32_time.c.obj.d -o CMakeFiles\glfw.dir\src\win32_time.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_time.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_time.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_time.c > CMakeFiles\glfw.dir\src\win32_time.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_time.c > CMakeFiles\glfw.dir\src\win32_time.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_time.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_time.c -o CMakeFiles\glfw.dir\src\win32_time.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_time.c -o CMakeFiles\glfw.dir\src\win32_time.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_thread.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_thread.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj -MF CMakeFiles\glfw.dir\src\win32_thread.c.obj.d -o CMakeFiles\glfw.dir\src\win32_thread.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_thread.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj -MF CMakeFiles\glfw.dir\src\win32_thread.c.obj.d -o CMakeFiles\glfw.dir\src\win32_thread.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_thread.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_thread.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_thread.c > CMakeFiles\glfw.dir\src\win32_thread.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_thread.c > CMakeFiles\glfw.dir\src\win32_thread.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_thread.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_thread.c -o CMakeFiles\glfw.dir\src\win32_thread.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_thread.c -o CMakeFiles\glfw.dir\src\win32_thread.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_window.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_window.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj -MF CMakeFiles\glfw.dir\src\win32_window.c.obj.d -o CMakeFiles\glfw.dir\src\win32_window.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_window.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj -MF CMakeFiles\glfw.dir\src\win32_window.c.obj.d -o CMakeFiles\glfw.dir\src\win32_window.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_window.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/win32_window.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_window.c > CMakeFiles\glfw.dir\src\win32_window.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_window.c > CMakeFiles\glfw.dir\src\win32_window.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/win32_window.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\win32_window.c -o CMakeFiles\glfw.dir\src\win32_window.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\win32_window.c -o CMakeFiles\glfw.dir\src\win32_window.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/wgl_context.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/wgl_context.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj -MF CMakeFiles\glfw.dir\src\wgl_context.c.obj.d -o CMakeFiles\glfw.dir\src\wgl_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\wgl_context.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj -MF CMakeFiles\glfw.dir\src\wgl_context.c.obj.d -o CMakeFiles\glfw.dir\src\wgl_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\wgl_context.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/wgl_context.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\wgl_context.c > CMakeFiles\glfw.dir\src\wgl_context.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\wgl_context.c > CMakeFiles\glfw.dir\src\wgl_context.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/wgl_context.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\wgl_context.c -o CMakeFiles\glfw.dir\src\wgl_context.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\wgl_context.c -o CMakeFiles\glfw.dir\src\wgl_context.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/egl_context.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/egl_context.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj -MF CMakeFiles\glfw.dir\src\egl_context.c.obj.d -o CMakeFiles\glfw.dir\src\egl_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\egl_context.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj -MF CMakeFiles\glfw.dir\src\egl_context.c.obj.d -o CMakeFiles\glfw.dir\src\egl_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\egl_context.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/egl_context.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\egl_context.c > CMakeFiles\glfw.dir\src\egl_context.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\egl_context.c > CMakeFiles\glfw.dir\src\egl_context.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/egl_context.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\egl_context.c -o CMakeFiles\glfw.dir\src\egl_context.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\egl_context.c -o CMakeFiles\glfw.dir\src\egl_context.c.s
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/flags.make
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/osmesa_context.c
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/osmesa_context.c
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj -MF CMakeFiles\glfw.dir\src\osmesa_context.c.obj.d -o CMakeFiles\glfw.dir\src\osmesa_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\osmesa_context.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj -MF CMakeFiles\glfw.dir\src\osmesa_context.c.obj.d -o CMakeFiles\glfw.dir\src\osmesa_context.c.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\osmesa_context.c
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/glfw.dir/src/osmesa_context.c.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\osmesa_context.c > CMakeFiles\glfw.dir\src\osmesa_context.c.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\osmesa_context.c > CMakeFiles\glfw.dir\src\osmesa_context.c.i
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/glfw.dir/src/osmesa_context.c.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW\src\osmesa_context.c -o CMakeFiles\glfw.dir\src\osmesa_context.c.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW\src\osmesa_context.c -o CMakeFiles\glfw.dir\src\osmesa_context.c.s
 
 # Object files for target glfw
 glfw_OBJECTS = \
@@ -389,42 +389,42 @@ glfw_OBJECTS = \
 # External object files for target glfw
 glfw_EXTERNAL_OBJECTS =
 
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/build.make
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C static library C:\Users\ZhenKou\OneDrive\project\MyRayTracer\bin\Debug-Windows-AMD64\glfw\libglfw.a"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -P CMakeFiles\glfw.dir\cmake_clean_target.cmake
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\glfw.dir\link.txt --verbose=$(VERBOSE)
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/build.make
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a: Walnut/vendor/GLFW/CMakeFiles/glfw.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking C static library C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\bin\Debug-Windows-AMD64\glfw\libglfw.a"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -P CMakeFiles\glfw.dir\cmake_clean_target.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\glfw.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-Walnut/vendor/GLFW/CMakeFiles/glfw.dir/build: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a
+Walnut/vendor/GLFW/CMakeFiles/glfw.dir/build: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a
 .PHONY : Walnut/vendor/GLFW/CMakeFiles/glfw.dir/build
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -P CMakeFiles\glfw.dir\cmake_clean.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW && $(CMAKE_COMMAND) -P CMakeFiles\glfw.dir\cmake_clean.cmake
 .PHONY : Walnut/vendor/GLFW/CMakeFiles/glfw.dir/clean
 
 Walnut/vendor/GLFW/CMakeFiles/glfw.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\MyRayTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\GLFW C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\GLFW\CMakeFiles\glfw.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\GLFW C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\GLFW\CMakeFiles\glfw.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : Walnut/vendor/GLFW/CMakeFiles/glfw.dir/depend
 

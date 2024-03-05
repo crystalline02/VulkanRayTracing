@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 # Include any dependencies generated for this target.
 include Walnut/vendor/imgui/CMakeFiles/ImGui.dir/depend.make
@@ -70,78 +70,78 @@ include Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/includes_CXX.rsp
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui.cpp
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui.cpp
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj -MF CMakeFiles\ImGui.dir\imgui.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj -MF CMakeFiles\ImGui.dir\imgui.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui.cpp
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ImGui.dir/imgui.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui.cpp > CMakeFiles\ImGui.dir\imgui.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui.cpp > CMakeFiles\ImGui.dir\imgui.cpp.i
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ImGui.dir/imgui.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui.cpp -o CMakeFiles\ImGui.dir\imgui.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui.cpp -o CMakeFiles\ImGui.dir\imgui.cpp.s
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/includes_CXX.rsp
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_draw.cpp
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_draw.cpp
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_draw.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_draw.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_draw.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_draw.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_draw.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_draw.cpp
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ImGui.dir/imgui_draw.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_draw.cpp > CMakeFiles\ImGui.dir\imgui_draw.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_draw.cpp > CMakeFiles\ImGui.dir\imgui_draw.cpp.i
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ImGui.dir/imgui_draw.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_draw.cpp -o CMakeFiles\ImGui.dir\imgui_draw.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_draw.cpp -o CMakeFiles\ImGui.dir\imgui_draw.cpp.s
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/includes_CXX.rsp
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_tables.cpp
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_tables.cpp
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_tables.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_tables.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_tables.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_tables.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_tables.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_tables.cpp
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ImGui.dir/imgui_tables.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_tables.cpp > CMakeFiles\ImGui.dir\imgui_tables.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_tables.cpp > CMakeFiles\ImGui.dir\imgui_tables.cpp.i
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ImGui.dir/imgui_tables.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_tables.cpp -o CMakeFiles\ImGui.dir\imgui_tables.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_tables.cpp -o CMakeFiles\ImGui.dir\imgui_tables.cpp.s
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/includes_CXX.rsp
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_widgets.cpp
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_widgets.cpp
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_widgets.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_widgets.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_widgets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_widgets.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_widgets.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_widgets.cpp
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ImGui.dir/imgui_widgets.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_widgets.cpp > CMakeFiles\ImGui.dir\imgui_widgets.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_widgets.cpp > CMakeFiles\ImGui.dir\imgui_widgets.cpp.i
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ImGui.dir/imgui_widgets.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_widgets.cpp -o CMakeFiles\ImGui.dir\imgui_widgets.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_widgets.cpp -o CMakeFiles\ImGui.dir\imgui_widgets.cpp.s
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/flags.make
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/includes_CXX.rsp
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_demo.cpp
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_demo.cpp
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_demo.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_demo.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_demo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj -MF CMakeFiles\ImGui.dir\imgui_demo.cpp.obj.d -o CMakeFiles\ImGui.dir\imgui_demo.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_demo.cpp
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ImGui.dir/imgui_demo.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_demo.cpp > CMakeFiles\ImGui.dir\imgui_demo.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_demo.cpp > CMakeFiles\ImGui.dir\imgui_demo.cpp.i
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ImGui.dir/imgui_demo.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui\imgui_demo.cpp -o CMakeFiles\ImGui.dir\imgui_demo.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui\imgui_demo.cpp -o CMakeFiles\ImGui.dir\imgui_demo.cpp.s
 
 # Object files for target ImGui
 ImGui_OBJECTS = \
@@ -154,26 +154,26 @@ ImGui_OBJECTS = \
 # External object files for target ImGui
 ImGui_EXTERNAL_OBJECTS =
 
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/build.make
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library C:\Users\ZhenKou\OneDrive\project\MyRayTracer\bin\Debug-Windows-AMD64\ImGui\libImGui.a"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -P CMakeFiles\ImGui.dir\cmake_clean_target.cmake
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ImGui.dir\link.txt --verbose=$(VERBOSE)
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/build.make
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a: Walnut/vendor/imgui/CMakeFiles/ImGui.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\bin\Debug-Windows-AMD64\ImGui\libImGui.a"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -P CMakeFiles\ImGui.dir\cmake_clean_target.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\ImGui.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-Walnut/vendor/imgui/CMakeFiles/ImGui.dir/build: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a
+Walnut/vendor/imgui/CMakeFiles/ImGui.dir/build: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a
 .PHONY : Walnut/vendor/imgui/CMakeFiles/ImGui.dir/build
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -P CMakeFiles\ImGui.dir\cmake_clean.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui && $(CMAKE_COMMAND) -P CMakeFiles\ImGui.dir\cmake_clean.cmake
 .PHONY : Walnut/vendor/imgui/CMakeFiles/ImGui.dir/clean
 
 Walnut/vendor/imgui/CMakeFiles/ImGui.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\MyRayTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\vendor\imgui C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\vendor\imgui\CMakeFiles\ImGui.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\vendor\imgui C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\vendor\imgui\CMakeFiles\ImGui.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : Walnut/vendor/imgui/CMakeFiles/ImGui.dir/depend
 

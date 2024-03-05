@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 # Include any dependencies generated for this target.
 include PathTracer/CMakeFiles/PathTracer.dir/depend.make
@@ -70,18 +70,18 @@ include PathTracer/CMakeFiles/PathTracer.dir/flags.make
 
 PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj: PathTracer/CMakeFiles/PathTracer.dir/flags.make
 PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj: PathTracer/CMakeFiles/PathTracer.dir/includes_CXX.rsp
-PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/PathTracer/src/PathTracerApp.cpp
+PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/PathTracer/src/PathTracerApp.cpp
 PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj: PathTracer/CMakeFiles/PathTracer.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj -MF CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.obj.d -o CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\MyRayTracer\PathTracer\src\PathTracerApp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj -MF CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.obj.d -o CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.obj -c C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\PathTracer\src\PathTracerApp.cpp
 
 PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.i"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\MyRayTracer\PathTracer\src\PathTracerApp.cpp > CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\PathTracer\src\PathTracerApp.cpp > CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.i
 
 PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.s"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\MyRayTracer\PathTracer\src\PathTracerApp.cpp -o CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer && C:\library_cpp\MinGW\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\PathTracer\src\PathTracerApp.cpp -o CMakeFiles\PathTracer.dir\src\PathTracerApp.cpp.s
 
 # Object files for target PathTracer
 PathTracer_OBJECTS = \
@@ -90,27 +90,27 @@ PathTracer_OBJECTS = \
 # External object files for target PathTracer
 PathTracer_EXTERNAL_OBJECTS =
 
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/build.make
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/ImGui/libImGui.a
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: D:/VulkanSDK/1.3.268.0/Lib/vulkan-1.lib
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/linkLibs.rsp
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/objects1.rsp
-C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C:\Users\ZhenKou\OneDrive\project\MyRayTracer\bin\Debug-Windows-AMD64\PathTracer\PathTracer.exe"
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PathTracer.dir\link.txt --verbose=$(VERBOSE)
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/build.make
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/ImGui/libImGui.a
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: D:/VulkanSDK/1.3.268.0/Lib/vulkan-1.lib
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/linkLibs.rsp
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/objects1.rsp
+C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe: PathTracer/CMakeFiles/PathTracer.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\bin\Debug-Windows-AMD64\PathTracer\PathTracer.exe"
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\PathTracer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-PathTracer/CMakeFiles/PathTracer.dir/build: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe
+PathTracer/CMakeFiles/PathTracer.dir/build: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe
 .PHONY : PathTracer/CMakeFiles/PathTracer.dir/build
 
 PathTracer/CMakeFiles/PathTracer.dir/clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer && $(CMAKE_COMMAND) -P CMakeFiles\PathTracer.dir\cmake_clean.cmake
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer && $(CMAKE_COMMAND) -P CMakeFiles\PathTracer.dir\cmake_clean.cmake
 .PHONY : PathTracer/CMakeFiles/PathTracer.dir/clean
 
 PathTracer/CMakeFiles/PathTracer.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\MyRayTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\PathTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\PathTracer\CMakeFiles\PathTracer.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\PathTracer C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\PathTracer\CMakeFiles\PathTracer.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : PathTracer/CMakeFiles/PathTracer.dir/depend
 

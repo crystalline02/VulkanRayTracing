@@ -69,7 +69,7 @@ namespace Walnut {
 		float m_LastFrameTime = 0.0f;
 
 		std::vector<std::shared_ptr<Layer>> m_LayerStack;
-		std::function<void()> m_MenubarCallback;
+		std::function<void()> m_MenubarCallback;  // void menubarCallback();
 	};
 
 	// Implemented by CLIENT

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut
+# Install script for directory: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui/cmake_install.cmake")
-  include("C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW/cmake_install.cmake")
-  include("C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut/cmake_install.cmake")
+  include("C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui/cmake_install.cmake")
+  include("C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW/cmake_install.cmake")
+  include("C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut/cmake_install.cmake")
 
 endif()
 

@@ -1,9 +1,9 @@
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/backends/imgui_impl_vulkan.cpp \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/backends/imgui_impl_vulkan.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imconfig.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\ImGui\ImGuiBuild.cpp \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/backends/imgui_impl_vulkan.cpp \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/backends/imgui_impl_vulkan.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imconfig.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/crtdefs.h \
@@ -54,11 +54,11 @@ Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj: \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/_mingw_off_t.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/swprintf.inl \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/backends/imgui_impl_glfw.cpp \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/backends/imgui_impl_glfw.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/include/GLFW/glfw3.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/backends/imgui_impl_glfw.cpp \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/backends/imgui_impl_glfw.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/include/GLFW/glfw3.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/GL/gl.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/include/GLFW/glfw3native.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/include/GLFW/glfw3native.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/windows.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/sdkddkver.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/excpt.h \

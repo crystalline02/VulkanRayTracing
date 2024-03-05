@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe"
+			"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.exe"
 		},
 		{
-			"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/PathTracer/PathTracer.pdb"
+			"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/PathTracer/PathTracer.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +38,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 15,
+				"line" : 14,
 				"parent" : 0
 			},
 			{
@@ -62,13 +62,13 @@
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 23,
+				"line" : 22,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 20,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
@@ -85,7 +85,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++17"
+					"fragment" : "-g -std=gnu++20"
 				}
 			],
 			"defines" : 
@@ -103,19 +103,19 @@
 			[
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/include"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/include"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/glm"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/glm"
 				},
 				{
 					"backtrace" : 9,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/PathTracer/../Walnut/Walnut/src"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/PathTracer/../Walnut/Walnut/src"
 				},
 				{
 					"backtrace" : 9,
@@ -129,7 +129,7 @@
 				[
 					1
 				],
-				"standard" : "17"
+				"standard" : "20"
 			},
 			"sourceIndexes" : 
 			[
@@ -141,15 +141,15 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "ImGui::@d64d26e01c2879338efc"
-		},
-		{
-			"backtrace" : 2,
 			"id" : "glfw::@ff7b237c36173f587d05"
 		},
 		{
 			"backtrace" : 2,
 			"id" : "Walnut::@df7f0e3e22930ffcbb0a"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ImGui::@d64d26e01c2879338efc"
 		}
 	],
 	"id" : "PathTracer::@e24932fdad16456b4e87",
@@ -167,17 +167,17 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\bin\\Debug-Windows-AMD64\\Walnut\\libWalnut.a",
+				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\bin\\Debug-Windows-AMD64\\Walnut\\libWalnut.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\bin\\Debug-Windows-AMD64\\ImGui\\libImGui.a",
+				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\bin\\Debug-Windows-AMD64\\ImGui\\libImGui.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\bin\\Debug-Windows-AMD64\\glfw\\libglfw.a",
+				"fragment" : "C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\bin\\Debug-Windows-AMD64\\glfw\\libglfw.a",
 				"role" : "libraries"
 			},
 			{

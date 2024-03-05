@@ -3,7 +3,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a"
+			"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a"
 		}
 	],
 	"backtrace" : 1,
@@ -81,19 +81,19 @@
 			[
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/./src"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/./src"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/include"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/include"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/stb_image"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/stb_image"
 				},
 				{
 					"backtrace" : 5,
@@ -101,7 +101,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"path" : "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/glm"
+					"path" : "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/glm"
 				}
 			],
 			"language" : "CXX",
@@ -127,11 +127,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "ImGui::@d64d26e01c2879338efc"
+			"id" : "glfw::@ff7b237c36173f587d05"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "glfw::@ff7b237c36173f587d05"
+			"id" : "ImGui::@d64d26e01c2879338efc"
 		}
 	],
 	"id" : "Walnut::@df7f0e3e22930ffcbb0a",

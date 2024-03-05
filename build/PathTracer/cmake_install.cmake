@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ZhenKou/OneDrive/project/MyRayTracer/PathTracer
+# Install script for directory: C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/PathTracer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

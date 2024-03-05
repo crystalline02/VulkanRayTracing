@@ -6,5 +6,5 @@ CXX_DEFINES = -DWL_DEBUG -DWL_PLATFORM_WINDOWS
 
 CXX_INCLUDES = @CMakeFiles/PathTracer.dir/includes_CXX.rsp
 
-CXX_FLAGS = -g -std=gnu++17
+CXX_FLAGS = -g -std=gnu++20
 

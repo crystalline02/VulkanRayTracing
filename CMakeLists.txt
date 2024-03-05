@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
+# set(CMAKE_BUILD_TYPE Release)
 project(MyRayTracer LANGUAGES CXX)
 set(output_dir "${CMAKE_BUILD_TYPE}-${CMAKE_SYSTEM_NAME}-${CMAKE_SYSTEM_PROCESSOR}")
 set(VULKAN_SDK $ENV{VULKAN_SDK})
@@ -13,4 +14,3 @@ set(STBIMAGE_INCLUDE ${CMAKE_SOURCE_DIR}/Walnut/vendor/stb_image)
 
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/Walnut)
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/PathTracer)
-# set(CMAKE_BUILD_TYPE Release)

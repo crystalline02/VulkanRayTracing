@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.a"
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/glfw/libglfw.pdb"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.a"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/glfw/libglfw.pdb"
   "CMakeFiles/glfw.dir/src/context.c.obj"
   "CMakeFiles/glfw.dir/src/context.c.obj.d"
   "CMakeFiles/glfw.dir/src/egl_context.c.obj"

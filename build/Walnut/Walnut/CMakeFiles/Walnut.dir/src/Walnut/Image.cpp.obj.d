@@ -1,6 +1,6 @@
 Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Image.cpp \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Image.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Image.cpp \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Image.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/string \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/requires_hosted.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -110,8 +110,8 @@ Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: \
  D:/VulkanSDK/1.3.268.0/Include/vk_video/vulkan_video_codec_h265std.h \
  D:/VulkanSDK/1.3.268.0/Include/vk_video/vulkan_video_codec_h265std_decode.h \
  D:/VulkanSDK/1.3.268.0/Include/vk_video/vulkan_video_codec_h265std.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imconfig.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imconfig.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/float.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/stdarg.h \
@@ -120,9 +120,9 @@ Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/string.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/sec_api/string_s.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/assert.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/backends/imgui_impl_vulkan.h \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Application.h \
- C:\Users\ZhenKou\OneDrive\project\MyRayTracer\Walnut\Walnut\src\Walnut\Layer.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/backends/imgui_impl_vulkan.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Application.h \
+ C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\Walnut\Walnut\src\Walnut\Layer.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/vector \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_uninitialized.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_vector.h \
@@ -181,7 +181,7 @@ Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj: \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/algorithmfwd.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/stl_heap.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/bits/uniform_int_dist.h \
- C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/stb_image/stb_image.h \
+ C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/stb_image/stb_image.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/math.h \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/cmath \
  C:/library_cpp/MinGW/x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1/x86_64-w64-mingw32/include/math.h \

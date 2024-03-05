@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.a"
-  "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/bin/Debug-Windows-AMD64/Walnut/libWalnut.pdb"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.a"
+  "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/bin/Debug-Windows-AMD64/Walnut/libWalnut.pdb"
   "CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj"
   "CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj.d"
   "CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj"

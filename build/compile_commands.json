@@ -1,194 +1,194 @@
 [
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\imgui.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\imgui\\imgui.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\imgui\\imgui.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui.cpp",
   "output": "Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\imgui_draw.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\imgui\\imgui_draw.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_draw.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_draw.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_draw.cpp",
   "output": "Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_draw.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\imgui_tables.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\imgui\\imgui_tables.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_tables.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_tables.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_tables.cpp",
   "output": "Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_tables.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\imgui_widgets.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\imgui\\imgui_widgets.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_widgets.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_widgets.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_widgets.cpp",
   "output": "Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_widgets.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/imgui",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ImGui.dir\\imgui_demo.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\imgui\\imgui_demo.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/imgui/imgui_demo.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/imgui",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe  @CMakeFiles/ImGui.dir/includes_CXX.rsp -g -o CMakeFiles\\ImGui.dir\\imgui_demo.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\imgui\\imgui_demo.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/imgui/imgui_demo.cpp",
   "output": "Walnut/vendor/imgui/CMakeFiles/ImGui.dir/imgui_demo.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\context.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/context.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\context.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/context.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/context.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\init.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/init.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\init.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/init.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/init.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\input.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\input.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/input.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\input.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\input.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/input.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/input.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\monitor.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/monitor.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\monitor.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/monitor.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/monitor.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\null_init.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_init.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\null_init.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_init.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_init.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_joystick.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\null_joystick.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_joystick.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_joystick.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\null_joystick.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_joystick.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_joystick.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\null_monitor.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_monitor.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\null_monitor.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_monitor.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_monitor.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\null_window.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/null_window.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\null_window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\null_window.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/null_window.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/null_window.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\platform.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\platform.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/platform.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\platform.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\platform.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/platform.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/platform.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\vulkan.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\vulkan.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/vulkan.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\vulkan.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\vulkan.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/vulkan.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/vulkan.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\window.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/window.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\window.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/window.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/window.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_init.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_init.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_init.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_init.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_init.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_init.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_joystick.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_joystick.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_joystick.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_joystick.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_joystick.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_joystick.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_joystick.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_module.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_module.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_module.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_module.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_module.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_module.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_module.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_monitor.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_monitor.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_monitor.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_monitor.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_monitor.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_monitor.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_time.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_time.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_time.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_time.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_time.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_time.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_time.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_thread.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_thread.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_thread.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_thread.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_thread.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_thread.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_thread.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\win32_window.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/win32_window.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\win32_window.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\win32_window.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/win32_window.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/win32_window.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\wgl_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\wgl_context.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/wgl_context.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\wgl_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\wgl_context.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/wgl_context.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/wgl_context.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\egl_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\egl_context.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/egl_context.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\egl_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\egl_context.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/egl_context.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/egl_context.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/vendor/GLFW",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\osmesa_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\vendor\\GLFW\\src\\osmesa_context.c",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/vendor/GLFW/src/osmesa_context.c",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/vendor/GLFW",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\gcc.exe -D_GLFW_WIN32  -g -w -o CMakeFiles\\glfw.dir\\src\\osmesa_context.c.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\vendor\\GLFW\\src\\osmesa_context.c",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/vendor/GLFW/src/osmesa_context.c",
   "output": "Walnut/vendor/GLFW/CMakeFiles/glfw.dir/src/osmesa_context.c.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Application.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\Walnut\\src\\Walnut\\Application.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Application.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Application.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\Walnut\\src\\Walnut\\Application.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Application.cpp",
   "output": "Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\ImGui\\ImGuiBuild.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\Walnut\\src\\Walnut\\ImGui\\ImGuiBuild.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\ImGui\\ImGuiBuild.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\Walnut\\src\\Walnut\\ImGui\\ImGuiBuild.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp",
   "output": "Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Image.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\Walnut\\src\\Walnut\\Image.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Image.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Image.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\Walnut\\src\\Walnut\\Image.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Image.cpp",
   "output": "Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Input\\Input.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\Walnut\\src\\Walnut\\Input\\Input.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Input/Input.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Input\\Input.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\Walnut\\src\\Walnut\\Input\\Input.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Input/Input.cpp",
   "output": "Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/Walnut/Walnut",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Random.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\Walnut\\Walnut\\src\\Walnut\\Random.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/Walnut/Walnut/src/Walnut/Random.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/Walnut/Walnut",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/Walnut.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Walnut.dir\\src\\Walnut\\Random.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\Walnut\\Walnut\\src\\Walnut\\Random.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/Walnut/Walnut/src/Walnut/Random.cpp",
   "output": "Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj"
 },
 {
-  "directory": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/build/PathTracer",
-  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/PathTracer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\PathTracer.dir\\src\\PathTracerApp.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\MyRayTracer\\PathTracer\\src\\PathTracerApp.cpp",
-  "file": "C:/Users/ZhenKou/OneDrive/project/MyRayTracer/PathTracer/src/PathTracerApp.cpp",
+  "directory": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/build/PathTracer",
+  "command": "C:\\library_cpp\\MinGW\\x86_64-13.1.0-release-posix-seh-ucrt-rt_v11-rev1\\bin\\g++.exe -DWL_DEBUG -DWL_PLATFORM_WINDOWS @CMakeFiles/PathTracer.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\PathTracer.dir\\src\\PathTracerApp.cpp.obj -c C:\\Users\\ZhenKou\\OneDrive\\project\\VulkanRayTracerWalnut\\PathTracer\\src\\PathTracerApp.cpp",
+  "file": "C:/Users/ZhenKou/OneDrive/project/VulkanRayTracerWalnut/PathTracer/src/PathTracerApp.cpp",
   "output": "PathTracer/CMakeFiles/PathTracer.dir/src/PathTracerApp.cpp.obj"
 }
 ]

@@ -1,5 +1,5 @@
 project(PathTracer LANGUAGES CXX)
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SOURCES 
@@ -11,7 +11,6 @@ target_include_directories(PathTracer PRIVATE
     ${GLM_INCLUDE}
     ../Walnut/Walnut/src
     ${VULKAN_SDK_INCLUDE})
-message(${VULKAN_SDK_INCLUDE})
 target_link_libraries(PathTracer PRIVATE
     Walnut)
 set_target_properties(PathTracer PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin/${output_dir}/${PROJECT_NAME})

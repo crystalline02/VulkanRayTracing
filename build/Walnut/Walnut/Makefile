@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer
+CMAKE_SOURCE_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build
+CMAKE_BINARY_DIR = C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,14 +86,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\Walnut\Walnut\\CMakeFiles\progress.marks
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build\CMakeFiles 0
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\Walnut\Walnut\\CMakeFiles\progress.marks
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/clean
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/clean
 .PHONY : clean
 
 # The main clean target
@@ -102,22 +102,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/preinstall
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/preinstall
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 Walnut/Walnut/CMakeFiles/Walnut.dir/rule:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/CMakeFiles/Walnut.dir/rule
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Walnut/Walnut/CMakeFiles/Walnut.dir/rule
 .PHONY : Walnut/Walnut/CMakeFiles/Walnut.dir/rule
 
 # Convenience name for target.
@@ -126,7 +126,7 @@ Walnut: Walnut/Walnut/CMakeFiles/Walnut.dir/rule
 
 # fast build rule for target.
 Walnut/fast:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/build
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/build
 .PHONY : Walnut/fast
 
 src/Walnut/Application.obj: src/Walnut/Application.cpp.obj
@@ -134,7 +134,7 @@ src/Walnut/Application.obj: src/Walnut/Application.cpp.obj
 
 # target to build an object file
 src/Walnut/Application.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.obj
 .PHONY : src/Walnut/Application.cpp.obj
 
 src/Walnut/Application.i: src/Walnut/Application.cpp.i
@@ -142,7 +142,7 @@ src/Walnut/Application.i: src/Walnut/Application.cpp.i
 
 # target to preprocess a source file
 src/Walnut/Application.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.i
 .PHONY : src/Walnut/Application.cpp.i
 
 src/Walnut/Application.s: src/Walnut/Application.cpp.s
@@ -150,7 +150,7 @@ src/Walnut/Application.s: src/Walnut/Application.cpp.s
 
 # target to generate assembly for a file
 src/Walnut/Application.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Application.cpp.s
 .PHONY : src/Walnut/Application.cpp.s
 
 src/Walnut/ImGui/ImGuiBuild.obj: src/Walnut/ImGui/ImGuiBuild.cpp.obj
@@ -158,7 +158,7 @@ src/Walnut/ImGui/ImGuiBuild.obj: src/Walnut/ImGui/ImGuiBuild.cpp.obj
 
 # target to build an object file
 src/Walnut/ImGui/ImGuiBuild.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.obj
 .PHONY : src/Walnut/ImGui/ImGuiBuild.cpp.obj
 
 src/Walnut/ImGui/ImGuiBuild.i: src/Walnut/ImGui/ImGuiBuild.cpp.i
@@ -166,7 +166,7 @@ src/Walnut/ImGui/ImGuiBuild.i: src/Walnut/ImGui/ImGuiBuild.cpp.i
 
 # target to preprocess a source file
 src/Walnut/ImGui/ImGuiBuild.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.i
 .PHONY : src/Walnut/ImGui/ImGuiBuild.cpp.i
 
 src/Walnut/ImGui/ImGuiBuild.s: src/Walnut/ImGui/ImGuiBuild.cpp.s
@@ -174,7 +174,7 @@ src/Walnut/ImGui/ImGuiBuild.s: src/Walnut/ImGui/ImGuiBuild.cpp.s
 
 # target to generate assembly for a file
 src/Walnut/ImGui/ImGuiBuild.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/ImGui/ImGuiBuild.cpp.s
 .PHONY : src/Walnut/ImGui/ImGuiBuild.cpp.s
 
 src/Walnut/Image.obj: src/Walnut/Image.cpp.obj
@@ -182,7 +182,7 @@ src/Walnut/Image.obj: src/Walnut/Image.cpp.obj
 
 # target to build an object file
 src/Walnut/Image.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.obj
 .PHONY : src/Walnut/Image.cpp.obj
 
 src/Walnut/Image.i: src/Walnut/Image.cpp.i
@@ -190,7 +190,7 @@ src/Walnut/Image.i: src/Walnut/Image.cpp.i
 
 # target to preprocess a source file
 src/Walnut/Image.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.i
 .PHONY : src/Walnut/Image.cpp.i
 
 src/Walnut/Image.s: src/Walnut/Image.cpp.s
@@ -198,7 +198,7 @@ src/Walnut/Image.s: src/Walnut/Image.cpp.s
 
 # target to generate assembly for a file
 src/Walnut/Image.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Image.cpp.s
 .PHONY : src/Walnut/Image.cpp.s
 
 src/Walnut/Input/Input.obj: src/Walnut/Input/Input.cpp.obj
@@ -206,7 +206,7 @@ src/Walnut/Input/Input.obj: src/Walnut/Input/Input.cpp.obj
 
 # target to build an object file
 src/Walnut/Input/Input.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.obj
 .PHONY : src/Walnut/Input/Input.cpp.obj
 
 src/Walnut/Input/Input.i: src/Walnut/Input/Input.cpp.i
@@ -214,7 +214,7 @@ src/Walnut/Input/Input.i: src/Walnut/Input/Input.cpp.i
 
 # target to preprocess a source file
 src/Walnut/Input/Input.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.i
 .PHONY : src/Walnut/Input/Input.cpp.i
 
 src/Walnut/Input/Input.s: src/Walnut/Input/Input.cpp.s
@@ -222,7 +222,7 @@ src/Walnut/Input/Input.s: src/Walnut/Input/Input.cpp.s
 
 # target to generate assembly for a file
 src/Walnut/Input/Input.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Input/Input.cpp.s
 .PHONY : src/Walnut/Input/Input.cpp.s
 
 src/Walnut/Random.obj: src/Walnut/Random.cpp.obj
@@ -230,7 +230,7 @@ src/Walnut/Random.obj: src/Walnut/Random.cpp.obj
 
 # target to build an object file
 src/Walnut/Random.cpp.obj:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.obj
 .PHONY : src/Walnut/Random.cpp.obj
 
 src/Walnut/Random.i: src/Walnut/Random.cpp.i
@@ -238,7 +238,7 @@ src/Walnut/Random.i: src/Walnut/Random.cpp.i
 
 # target to preprocess a source file
 src/Walnut/Random.cpp.i:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.i
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.i
 .PHONY : src/Walnut/Random.cpp.i
 
 src/Walnut/Random.s: src/Walnut/Random.cpp.s
@@ -246,7 +246,7 @@ src/Walnut/Random.s: src/Walnut/Random.cpp.s
 
 # target to generate assembly for a file
 src/Walnut/Random.cpp.s:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.s
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(MAKE) $(MAKESILENT) -f Walnut\Walnut\CMakeFiles\Walnut.dir\build.make Walnut/Walnut/CMakeFiles/Walnut.dir/src/Walnut/Random.cpp.s
 .PHONY : src/Walnut/Random.cpp.s
 
 # Help Target
@@ -284,6 +284,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /d C:\Users\ZhenKou\OneDrive\project\MyRayTracer\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
+	cd /d C:\Users\ZhenKou\OneDrive\project\VulkanRayTracerWalnut\build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
